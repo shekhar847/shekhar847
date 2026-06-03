@@ -18,11 +18,12 @@ Passionate developer building real-world web applications with modern technologi
 
 ## 🚀 Featured Project
 
-### Digital Marketing Landing Page
-Full stack web app with Node.js backend, MongoDB database, and responsive frontend.
+### Family Expense Tracker
 
-`Node.js` `MongoDB` `Express.js` `Bootstrap`
+A full-stack expense management application built with Node.js, Express.js, PostgrySQL, and JavaScript. Users can track expenses, categorize spending, generate reports, and manage financial records efficiently.
 
+Tech Stack:
+Node.js • Express.js • PostgrySQL • JavaScript • HTML • CSS
 ## 📫 Connect with me
 
 - GitHub: [@shekhar847](https://github.com/shekhar847)
