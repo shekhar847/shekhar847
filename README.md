@@ -34,6 +34,7 @@ A responsive landing page designed for marketing campaigns with modern UI and le
 Tech Stack: HTML • CSS • JavaScript • Node.js • MongoDB
 Tech Stack:
 Node.js • Express.js • PostgreSQL • JavaScript • HTML • CSS
+
 📫 Connect with me
 
 GitHub: https://github.com/shekhar847
