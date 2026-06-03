@@ -20,10 +20,10 @@ Passionate developer building real-world web applications with modern technologi
 
 ### Family Expense Tracker
 
-A full-stack expense management application built with Node.js, Express.js, PostgrySQL, and JavaScript. Users can track expenses, categorize spending, generate reports, and manage financial records efficiently.
+A full-stack expense management application built with Node.js, Express.js, PostgreSQL, and JavaScript. Users can track expenses, categorize spending, generate reports, and manage financial records efficiently.
 
 Tech Stack:
-Node.js • Express.js • PostgrySQL • JavaScript • HTML • CSS
+Node.js • Express.js • PostgreSQL • JavaScript • HTML • CSS
 ## 📫 Connect with me
 
 - GitHub: [@shekhar847](https://github.com/shekhar847)
