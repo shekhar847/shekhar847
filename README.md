@@ -31,7 +31,7 @@ Tech Stack: Node.js • Express.js • PostgreSQL • JavaScript • HTML • CS
 2. University Management System
 A web-based system for managing student records, courses, attendance, and academic information.
 
-Tech Stack: HTML • CSS • JavaScript • Bootstrap
+Tech Stack: Node.js • Express.js • PostgreSQL • JavaScript • HTML • CSS
 
 3. Digital Marketing Landing Page
 A responsive landing page designed for marketing campaigns with modern UI and lead generation features.
