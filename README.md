@@ -38,5 +38,7 @@ Node.js • Express.js • PostgreSQL • JavaScript • HTML • CSS
 📫 Connect with me
 
 GitHub: https://github.com/shekhar847
+
 Email: shekhar32542@gmail.com
+
 LinkedIn: :contentReference[oaicite:0]{index=0}
