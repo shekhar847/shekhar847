@@ -1,8 +1,8 @@
 # Hi, I'm Shekhar Kumar 👋
 
-**Full Stack Developer | Uttar Pradesh, India**
+Full Stack Developer from Uttar Pradesh, India.
 
-Passionate developer building real-world web applications with modern technologies.
+I build full-stack web applications using MERN and PERN technologies. Passionate about creating scalable solutions, solving real-world problems, and continuously improving my development skills.
 
 ## 🛠️ Skills
 
@@ -16,15 +16,26 @@ Passionate developer building real-world web applications with modern technologi
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-## 🚀 Featured Project
+🚀 Featured Projects
 
-### Family Expense Tracker
+1. Family Expense Tracker
+A full-stack expense management application with expense tracking, categorization, report generation, and user authentication.
 
-A full-stack expense management application built with Node.js, Express.js, PostgreSQL, and JavaScript. Users can track expenses, categorize spending, generate reports, and manage financial records efficiently.
+Tech Stack: Node.js • Express.js • PostgreSQL • JavaScript • HTML • CSS
 
+2. University Management System
+A web-based system for managing student records, courses, attendance, and academic information.
+
+Tech Stack: HTML • CSS • JavaScript • Bootstrap
+
+3. Digital Marketing Landing Page
+A responsive landing page designed for marketing campaigns with modern UI and lead generation features.
+
+Tech Stack: HTML • CSS • JavaScript • Node.js • MongoDB
 Tech Stack:
 Node.js • Express.js • PostgreSQL • JavaScript • HTML • CSS
-## 📫 Connect with me
+📫 Connect with me
 
-- GitHub: [@shekhar847](https://github.com/shekhar847)
-- Email: shekhar32542@gmail.com
+GitHub: https://github.com/shekhar847
+Email: shekhar32542@gmail.com
+LinkedIn: :contentReference[oaicite:0]{index=0}
