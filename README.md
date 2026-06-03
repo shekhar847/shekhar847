@@ -37,8 +37,6 @@ Tech Stack: HTML • CSS • JavaScript • Bootstrap
 A responsive landing page designed for marketing campaigns with modern UI and lead generation features.
 
 Tech Stack: HTML • CSS • JavaScript • Node.js • MongoDB
-Tech Stack:
-Node.js • Express.js • PostgreSQL • JavaScript • HTML • CSS
 
 📫 Connect with me
 
