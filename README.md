@@ -1,8 +1,8 @@
 # Hi, I'm Shekhar Kumar 👋
 
-Full Stack Developer from Uttar Pradesh, India.
+Full-Stack Software Developer from Uttar Pradesh, India.
 
-I build full-stack web applications using MERN and PERN technologies. Passionate about creating scalable solutions, solving real-world problems, and continuously improving my development skills.
+I build full-stack web applications using MERN, PERN, and Python technologies. I enjoy building scalable applications, solving real-world problems, and continuously improving my development skills.
 
 ## 🛠️ Skills
 
@@ -12,6 +12,8 @@ I build full-stack web applications using MERN and PERN technologies. Passionate
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -20,28 +22,42 @@ I build full-stack web applications using MERN and PERN technologies. Passionate
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-1. Family Expense Tracker
+### 1. AI Smart Attendance System
+
+A full-stack biometric attendance system using microservices architecture and real-time face recognition.
+
+**Tech Stack:** React.js • Python • FastAPI • dlib • PostgreSQL
+
+### 2. Family Expense Tracker
+
 A full-stack expense management application with expense tracking, categorization, report generation, and user authentication.
 
-Tech Stack: Node.js • Express.js • PostgreSQL • JavaScript • HTML • CSS
+**Tech Stack:** Node.js • Express.js • PostgreSQL • JavaScript • HTML • CSS
 
-2. University Management System
+### 3. University Management System
+
 A web-based system for managing student records, courses, attendance, and academic information.
 
-Tech Stack: Node.js • Express.js • PostgreSQL • JavaScript • HTML • CSS
+**Tech Stack:** Node.js • Express.js • PostgreSQL • JavaScript • HTML • CSS
 
-3. Digital Marketing Landing Page
+### 4. Digital Marketing Landing Page
+
 A responsive landing page designed for marketing campaigns with modern UI and lead generation features.
 
-Tech Stack: HTML • CSS • JavaScript • Node.js • MongoDB
+**Tech Stack:** HTML • CSS • JavaScript • Node.js • MongoDB
 
-📫 Connect with me
+### 5. E-Commerce Platform
 
-GitHub: https://github.com/shekhar847
+A full-stack MERN e-commerce application with authentication, cart, wishlist, orders, payment integration, admin dashboard, and analytics.
 
-Email: shekhar32542@gmail.com
+**Tech Stack:** MongoDB • Express.js • React.js • Node.js
 
-LinkedIn: https://www.linkedin.com/in/shekhar-kumar-b5942323b
+## 📫 Connect With Me
+
+- 💻 GitHub: https://github.com/shekhar847
+- 💼 LinkedIn: https://www.linkedin.com/in/shekhar-kumar-b5942323b
+- 📧 Email: shekhar32542@gmail.com
